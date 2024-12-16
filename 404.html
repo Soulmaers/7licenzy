@@ -9,10 +9,10 @@
         var path = location.pathname;
         var basePath = "/7Licenzy";
         if (path.indexOf(basePath) !== 0) {
-            location.href = location.origin + basePath + path;
+            location.replace(location.origin + basePath + path);
         }
         else if (path.split("/").pop() !== "404.html") {
-            location.href = location.origin + path;
+            location.replace(location.origin + path)
         }
     </script>
 </head>
