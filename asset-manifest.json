@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Soulmaers/7Licenzy/static/css/main.7aafbd03.css",
+    "main.js": "/Soulmaers/7Licenzy/static/js/main.9376e242.js",
+    "static/media/7l.png": "/Soulmaers/7Licenzy/static/media/7l.768b51e224aebc4dce0d.png",
+    "index.html": "/Soulmaers/7Licenzy/index.html",
+    "main.7aafbd03.css.map": "/Soulmaers/7Licenzy/static/css/main.7aafbd03.css.map",
+    "main.9376e242.js.map": "/Soulmaers/7Licenzy/static/js/main.9376e242.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7aafbd03.css",
+    "static/js/main.9376e242.js"
+  ]
+}
