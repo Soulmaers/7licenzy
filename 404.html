@@ -7,8 +7,8 @@
     <script>
         sessionStorage.redirect = location.href;
         var path = location.pathname.split("/").pop();
-        if (path != "404.html") {
-            location.href = location.origin + "/7Licenzy/";
+        if (path !== "404.html") {
+            location.href = location.origin + "/7Licenzy" + location.pathname;
         }
     </script>
 </head>
