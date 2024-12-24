@@ -1,10 +1,10 @@
 {
     "name": "Дашборд",
-    "short_name": "7licenzy",
+    "short_name": "Дашборд",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#ffffff",
-    "theme_color": "#000000",
+    "theme_color": "#fff",
     "icons": [
         {
             "src": "icon7l.png",
