@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/7Licenzy/static/css/main.0a651f6d.css",
-    "main.js": "/7Licenzy/static/js/main.e010af24.js",
+    "main.css": "/7Licenzy/static/css/main.3e28613e.css",
+    "main.js": "/7Licenzy/static/js/main.49ad293b.js",
     "static/media/ques.png": "/7Licenzy/static/media/ques.b279b9660d89bee188d7.png",
     "static/media/icon_start.png": "/7Licenzy/static/media/icon_start.e3772c12c9d2427b2672.png",
     "static/media/Akrobat-ExtraBold.otf": "/7Licenzy/static/media/Akrobat-ExtraBold.c563e35d28216ebe96ef.otf",
@@ -10,11 +10,11 @@
     "static/media/Akrobat-Regular.otf": "/7Licenzy/static/media/Akrobat-Regular.12827ce5e0d9afebcc19.otf",
     "static/media/7l.png": "/7Licenzy/static/media/7l.768b51e224aebc4dce0d.png",
     "index.html": "/7Licenzy/index.html",
-    "main.0a651f6d.css.map": "/7Licenzy/static/css/main.0a651f6d.css.map",
-    "main.e010af24.js.map": "/7Licenzy/static/js/main.e010af24.js.map"
+    "main.3e28613e.css.map": "/7Licenzy/static/css/main.3e28613e.css.map",
+    "main.49ad293b.js.map": "/7Licenzy/static/js/main.49ad293b.js.map"
   },
   "entrypoints": [
-    "static/css/main.0a651f6d.css",
-    "static/js/main.e010af24.js"
+    "static/css/main.3e28613e.css",
+    "static/js/main.49ad293b.js"
   ]
 }
